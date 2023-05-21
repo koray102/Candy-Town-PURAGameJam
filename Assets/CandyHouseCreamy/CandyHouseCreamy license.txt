@@ -1,0 +1,11 @@
+Model Information:
+* title:	Candy House
+* source:	https://sketchfab.com/3d-models/candy-house-4c173fc51b814048a25856d936094e22
+* author:	Jackie Do (https://sketchfab.com/jackiedo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Candy House" (https://sketchfab.com/3d-models/candy-house-4c173fc51b814048a25856d936094e22) by Jackie Do (https://sketchfab.com/jackiedo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

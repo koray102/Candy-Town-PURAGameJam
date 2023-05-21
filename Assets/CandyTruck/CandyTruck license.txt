@@ -1,0 +1,11 @@
+Model Information:
+* title:	Candy Tractor
+* source:	https://sketchfab.com/3d-models/candy-tractor-74d5fb0546a14a97a85c6c79a3736b62
+* author:	Sindre (https://sketchfab.com/sktvete)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Candy Tractor" (https://sketchfab.com/3d-models/candy-tractor-74d5fb0546a14a97a85c6c79a3736b62) by Sindre (https://sketchfab.com/sktvete) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

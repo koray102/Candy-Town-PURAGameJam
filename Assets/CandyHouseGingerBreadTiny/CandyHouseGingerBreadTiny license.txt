@@ -1,0 +1,11 @@
+Model Information:
+* title:	gingerbread scan
+* source:	https://sketchfab.com/3d-models/gingerbread-scan-f9acbf890e10414ab3f203213cbc194c
+* author:	kolitch (https://sketchfab.com/kolitch)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "gingerbread scan" (https://sketchfab.com/3d-models/gingerbread-scan-f9acbf890e10414ab3f203213cbc194c) by kolitch (https://sketchfab.com/kolitch) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)

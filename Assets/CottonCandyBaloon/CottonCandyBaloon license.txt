@@ -1,0 +1,11 @@
+Model Information:
+* title:	Candyballoon
+* source:	https://sketchfab.com/3d-models/candyballoon-59f8d017b422461e8ee7777bdabdb420
+* author:	Mirna.van.Steenbergen (https://sketchfab.com/Mirna.van.Steenbergen)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Candyballoon" (https://sketchfab.com/3d-models/candyballoon-59f8d017b422461e8ee7777bdabdb420) by Mirna.van.Steenbergen (https://sketchfab.com/Mirna.van.Steenbergen) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

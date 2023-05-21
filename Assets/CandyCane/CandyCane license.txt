@@ -1,0 +1,11 @@
+Model Information:
+* title:	Candy Cane
+* source:	https://sketchfab.com/3d-models/candy-cane-60e287ea45f045a1865bc2821ba53058
+* author:	Hancock (https://sketchfab.com/hans.fredo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Candy Cane" (https://sketchfab.com/3d-models/candy-cane-60e287ea45f045a1865bc2821ba53058) by Hancock (https://sketchfab.com/hans.fredo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
